@@ -6,3 +6,5 @@ Author => Arun kumar
 add index.html file
 <br>
 add style.css file
+<br>
+add script.js file
